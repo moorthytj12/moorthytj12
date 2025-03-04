@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @moorthytj12
-- 👀 I’m interested in Graphic Designing
-- 🌱 I’m currently learning DCSE
-- 💞️ I’m looking to collaborate on MNC
-- 📫 How to 5
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+👋 Hey there! I'm [Your Name], a tech enthusiast and content creator.  
+🎥 I make tech simple on YouTube.  
+💻 Exploring the latest gadgets, coding, and AI.  
+🚀 Always learning, always sharing. 
 <!---
 moorthytj12/moorthytj12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
