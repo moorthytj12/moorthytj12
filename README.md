@@ -1,4 +1,4 @@
-👋 Hey there! I'm [Your Name], a tech enthusiast and content creator.  
+👋 Hey there! I'm Moorthy X, a tech enthusiast and content creator.  
 🎥 I make tech simple on YouTube.  
 💻 Exploring the latest gadgets, coding, and AI.  
 🚀 Always learning, always sharing. 
